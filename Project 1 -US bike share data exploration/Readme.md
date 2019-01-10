@@ -51,3 +51,5 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 <li>counts of each gender (only available for NYC and Chicago)</li>
 <li>earliest, most recent, most common year of birth (only available for NYC and Chicago)</li></p>
 
+Post-script:
+I have enclosed the data in the zip folder of all three cities.
