@@ -1,4 +1,3 @@
-# My Third Project in Machine Learning Foundation Nanodegree
 # Investigate a Dataset
 ## Project: Investigate TMDb Movie Database 
 
