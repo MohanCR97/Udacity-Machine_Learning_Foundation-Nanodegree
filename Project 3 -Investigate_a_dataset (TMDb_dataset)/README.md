@@ -2,7 +2,6 @@
 ## Project: Investigate TMDb Movie Database 
 
 
-
 ----
 
 ### Table Of Contents:
@@ -46,11 +45,11 @@ In this project, I'll go through the data analysis process and see how everythin
 
 #### Files
 
-This project contains 2 files and 2 folder:
-- `data.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
-- `report.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
-- `export/` : Folder containing HTML and PDF file of notebook.
-- `plots/`  : Contains images of all the plots that are displayed in `report.ipynb` file.
+This project contains 4 files
+- `tmdb_movies.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
+- `Investigate_a_Dataset.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
+- `Investigate_a_Dataset.html` :  HTML file of notebook.
+- `Review.pdf`  : Revie of my project by the udacity reviewer.
 
 #### Dataset file
 
@@ -83,11 +82,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Investigate_TMDb_Movies/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook report.ipynb
+ipython notebook Investigate_a_Dataset.ipynb
 ```  
 or
 ```bash
-jupyter notebook report.ipynb
+jupyter notebook Investigate_a_Dataset.ipynb
 ```
 
 or if you have 'Jupyter Lab' installed
@@ -113,9 +112,8 @@ This will open the Jupyter/iPython Notebook software and project file/folder in 
  
 
 #### Evaluation
-My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/projects/3176718735/rubric" target="_blank">Investigating a Dataset rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
+My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/107/view">Investigating a Dataset rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
 
-#### Results
-[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/989156)
+
 
 ----
