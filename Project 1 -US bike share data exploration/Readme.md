@@ -53,4 +53,4 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 
 Post-script:
 I have enclosed the data in the zip folder of all three cities.
-To run this on your local machine download all the files and run the python script 'bikeshare.py'.
+To run this on your local machine download all the files and run the python script 'bikeshare.py'. 
