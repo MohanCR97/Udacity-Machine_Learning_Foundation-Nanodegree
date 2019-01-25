@@ -1,4 +1,4 @@
-<h1>Test a Perceptual Phenomena</h1>
+<h1>Test a Perceptual Phenomenon</h1>
 <p>This is a statistical project that is part of the Machine Learning Foundation Nanodegree.It Use descriptive statistics and a statistical test to analyze the Stroop effect, a classic result of experimental psychology. </p>
 
 <h3>Project Overview</h3>
