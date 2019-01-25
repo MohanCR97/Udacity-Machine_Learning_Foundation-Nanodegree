@@ -3,4 +3,4 @@
 
 <h3>Project Overview</h3>
 <p>In this project, I've investigated a classic phenomenon from experimental psychology called the <a href="https://en.wikipedia.org/wiki/Stroop_effect">Stroop Effect</a>. 
-and have created a hypothesis regarding the outcome of the task,then looked at some data collected from others who have performed the same task and i have computed some statistics describing the results. Finally, i've interpreted my results in terms of my hypotheses.</p>
+and have created a hypothesis regarding the outcome of the task,then looked at some <a href="stroopdata.csv">data</a> collected from others who have performed the same task and i have computed some statistics describing the results. Finally, i've interpreted my results in terms of my hypotheses.</p>
