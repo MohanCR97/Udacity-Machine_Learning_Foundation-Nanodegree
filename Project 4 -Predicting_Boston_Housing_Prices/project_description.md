@@ -2,7 +2,7 @@
 ## Project: Predicting Boston Housing Prices
 
 ## Project Overview
-In this project, you will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. You will first explore the data to obtain important features and descriptive statistics about the dataset. Next, you will properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. You will then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable you to pick the optimal model that best generalizes for unseen data. Finally, you will test this optimal model on a new sample and compare the predicted selling price to your statistics.
+In this project,i've applied some basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home.where first i explored the data to obtain important features and descriptive statistics about the dataset. Next,i properly split the data into testing and training subsets, and determined a suitable performance metric for this problem. then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable to pick the optimal model that best generalizes for unseen data. Finally,testing of this optimal model on a new sample and compare the predicted selling price to statistics.
 
 ## Project Highlights
 This project is designed to get you acquainted to working with datasets in Python and applying basic machine learning techniques using NumPy and Scikit-Learn. Before being expected to use many of the available algorithms in the sklearn library, it will be helpful to first practice analyzing and interpreting the performance of your model.
@@ -42,22 +42,9 @@ This project contains three files:
 
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
 
-## Submitting the Project
+
 
 ### Evaluation
-Your project will be reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/103/view" target="_blank">Predicting Boston Housing Prices project rubric</a>**. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be *meeting specifications* for you to pass.
+My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/103/view" target="_blank">Predicting Boston Housing Prices project rubric</a>**. 
 
-### Submission Files
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named `boston_housing` for ease of access:
- - The `boston_housing.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
- - An **HTML** export of the project notebook with the name **report.html**. This file *must* be present for your project to be evaluated.
 
-Once you have collected these files and reviewed the project rubric, proceed to the project submission page.
-
-### I'm Ready!
-When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
-
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
-
-### What's Next?
-You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
