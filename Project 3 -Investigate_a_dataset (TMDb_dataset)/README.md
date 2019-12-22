@@ -49,7 +49,7 @@ This project contains 4 files
 - `tmdb_movies.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
 - `Investigate_a_Dataset.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
 - `Investigate_a_Dataset.html` :  HTML file of notebook.
-- `Review.pdf`  : Revie of my project by the udacity reviewer.
+- `Review.pdf`  : Review of my project by the udacity reviewer.
 
 #### Dataset file
 
